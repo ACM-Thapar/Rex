@@ -1,0 +1,23 @@
+{
+  "name": "rex",
+  "version": "1.0.0",
+  "description": "A regex engine created using Thompsons Construction in NFA using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samikmalhotra/Rex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samikmalhotra/Rex/issues"
+  },
+  "homepage": "https://github.com/Samikmalhotra/Rex#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
